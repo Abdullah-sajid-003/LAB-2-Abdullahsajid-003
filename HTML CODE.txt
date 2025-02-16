@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <center>
+        <table width="70%" border="1" cellspacing="0" cellpadding="10">
+            <tr>
+                <td>
+                     <hr>
+                    <fieldset>
+                        <legend><h2>Personal Information</h2></legend>
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                    <ul>
+                                        <li><b>Name:</b>ABDULLAH SAJID</li>
+                                        <li><b>Email:</b>abdullahsajid1273@gmail.com</li>
+                                        <li><b>Phone:</b>+923125184515</li>
+                                        <li><b>Address:</b>Saddar,Rawalpindi</li>
+                                    </ul>
+                                </td>
+
+                            </tr>
+                        </table>
+                    </fieldset>
+                    <hr>
+                    <fieldset>
+                        <legend><h2>Objective</h2></legend>
+                        <blockquote>
+                            <i>
+                                I want to become a freelancer and want to do teaching at university level.
+                            </i>
+                        </blockquote>
+                    </fieldset>
+                    <hr>
+                    <fieldset>
+                        <legend><h2>Educational Information</h2></legend>
+                        <table border="1" width="100%">
+                            <tr>
+                                <th>Degree</th>
+                                <th>Institution</th>
+                                <th>Year</th>
+                            </tr>
+                            <tr>
+                                <td><b>Matriculation</b></td>
+                                <td><i>FAUJI FOUNDATION COLLEGE FOR BOYS,RWP</i></td>
+                                <td>2020</td>
+                            </tr>
+                            <tr>
+                                <td><b>Intermediate</b></td>
+                                <td><i>FG SIR SYED COLLEGE MALL ROAD,RWP</i></td>
+                                <td>2022</td>
+                            </tr>
+                            <tr>
+                                <td><b>Bachelor's in Information Technology</b></td>
+                                <td><i>BAHRIA University Islamabad</i></td>
+                                <td>2025</td>
+                            </tr>
+                        </table>
+                    </fieldset>
+                    <hr>
+                    <fieldset>
+                        <legend><h2>Projects</h2></legend>
+                        <ol>
+                            <li>
+                                <b>GROCERRY STORE</b> :- A web application
+                                enabling users to register, log in, and purchase  securely.
+                            </li>
+                            <li>
+                                <b>CAR GAME</b> :- Developed a CAR game for the relaxation purpose.
+                            </li>
+                        </ol>
+                    </fieldset>
+                    <hr>
+                    <fieldset>
+                        <legend><h2>Certificates</h2></legend>
+                        <ul>
+                            <li><i>C++ programming</i></li>
+                            <li><i>Data Structure and Algorithm</i></li>
+                        </ul>
+                    </fieldset>
+                    <hr>
+                    <fieldset>
+                        <legend><h2>Experience</h2></legend>
+                        <p>
+                            <b>Intern - Web Development</b> AT PTA Company 
+                        </p>
+                        <p>
+                            Worked on web Mobile App projects, Kotlin Language.
+                        </p>
+                    </fieldset>
+                    <hr>
+                    <fieldset>
+                        <legend><h2>Hobbies & Skills</h2></legend>
+                        <ul>
+                            <li><i>Dvelopment</i></li>
+                            <li><i>Ethical Hacking</i></li>
+                            <li><i>Problem-identifying</i></li>
+                        </ul>
+                    </fieldset>
+                    <hr>
+                    <center>
+                        <h3>Contact</h3>
+                        <p>For further details, please reach out via email.</p>
+                    </center>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
